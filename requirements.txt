@@ -1,0 +1,7 @@
+###### Requirements without Version Specifiers ######`
+Flask
+flask_sslify
+numpy
+imutils
+
+###### Requirements with Version Specifiers ######`
